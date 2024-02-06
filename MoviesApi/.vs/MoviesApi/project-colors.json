@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "357a2bb3-ccbc-41e6-b1e2-9e633ab403e9": {
+      "ProjectGuid": "357a2bb3-ccbc-41e6-b1e2-9e633ab403e9",
+      "DisplayName": "MVCtoMOvie",
+      "ColorIndex": 0
+    },
+    "8f819343-def1-48cc-9798-6d5eb4ba4e4b": {
+      "ProjectGuid": "8f819343-def1-48cc-9798-6d5eb4ba4e4b",
+      "DisplayName": "MoviesApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
